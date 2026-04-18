@@ -377,6 +377,27 @@
 				"w": 34,
                 "h": 41
             }
+        },
+        {
+            "filename": "tread",
+            "frame": {
+                "x": 34,
+                "y": 0,
+                "w": 6,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 40
+            }
         }
     ]
 }
