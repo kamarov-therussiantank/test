@@ -1,0 +1,46 @@
+{
+    "frames": [
+        {
+            "filename": "frame0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 280,
+                "h": 168
+            }
+        },
+        {
+            "filename": "frame1",
+            "frame": {
+                "x": 280,
+                "y": 0,
+                "w": 280,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 280,
+                "h": 168
+            }
+        }
+    ]
+}
