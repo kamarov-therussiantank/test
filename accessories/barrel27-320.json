@@ -152,8 +152,8 @@
             "frame": {
                 "x": 0,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -236,8 +236,8 @@
             "frame": {
                 "x": 0,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -444,10 +444,10 @@
         {
             "filename": "frame21",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -465,10 +465,10 @@
         {
             "filename": "frame22",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -486,10 +486,10 @@
         {
             "filename": "frame23",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -507,10 +507,10 @@
         {
             "filename": "frame24",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -528,10 +528,10 @@
         {
             "filename": "frame25",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
