@@ -381,10 +381,10 @@
         {
             "filename": "frame18",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -402,10 +402,10 @@
         {
             "filename": "frame19",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
@@ -423,10 +423,10 @@
         {
             "filename": "frame20",
             "frame": {
-                "x": 0,
+                "x": 320,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 320,
+                "h": 192
             },
             "rotated": false,
             "trimmed": false,
