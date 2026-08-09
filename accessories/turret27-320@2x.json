@@ -1,7 +1,7 @@
 {
   "frames": [
     {
-      "filename": "frame0.png",
+      "filename": "frame0",
       "frame": {
         "x": 0,
         "y": 0,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "filename": "frame1.png",
+      "filename": "frame1",
       "frame": {
         "x": 640,
         "y": 0,
@@ -43,7 +43,7 @@
       }
     },
     {
-      "filename": "frame2.png",
+      "filename": "frame2",
       "frame": {
         "x": 1280,
         "y": 0,
@@ -64,7 +64,7 @@
       }
     },
     {
-      "filename": "frame3.png",
+      "filename": "frame3",
       "frame": {
         "x": 1920,
         "y": 0,
@@ -85,7 +85,7 @@
       }
     },
     {
-      "filename": "frame4.png",
+      "filename": "frame4",
       "frame": {
         "x": 2560,
         "y": 0,
@@ -106,7 +106,7 @@
       }
     },
     {
-      "filename": "frame5.png",
+      "filename": "frame5",
       "frame": {
         "x": 1920,
         "y": 0,
@@ -127,7 +127,7 @@
       }
     },
     {
-      "filename": "frame6.png",
+      "filename": "frame6",
       "frame": {
         "x": 2560,
         "y": 0,
@@ -148,7 +148,7 @@
       }
     },
     {
-      "filename": "frame7.png",
+      "filename": "frame7",
       "frame": {
         "x": 1920,
         "y": 0,
@@ -169,7 +169,7 @@
       }
     },
     {
-      "filename": "frame8.png",
+      "filename": "frame8",
       "frame": {
         "x": 2560,
         "y": 0,
@@ -190,7 +190,7 @@
       }
     },
     {
-      "filename": "frame9.png",
+      "filename": "frame9",
       "frame": {
         "x": 3200,
         "y": 0,
@@ -211,7 +211,7 @@
       }
     },
     {
-      "filename": "frame10.png",
+      "filename": "frame10",
       "frame": {
         "x": 0,
         "y": 384,
@@ -232,28 +232,7 @@
       }
     },
     {
-      "filename": "frame11.png",
-      "frame": {
-        "x": 640,
-        "y": 384,
-        "w": 640,
-        "h": 384
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 640,
-        "h": 384
-      },
-      "sourceSize": {
-        "w": 640,
-        "h": 384
-      }
-    },
-    {
-      "filename": "frame12.png",
+      "filename": "frame11",
       "frame": {
         "x": 640,
         "y": 384,
@@ -274,7 +253,7 @@
       }
     },
     {
-      "filename": "frame13.png",
+      "filename": "frame12",
       "frame": {
         "x": 640,
         "y": 384,
@@ -295,7 +274,28 @@
       }
     },
     {
-      "filename": "frame14.png",
+      "filename": "frame13",
+      "frame": {
+        "x": 640,
+        "y": 384,
+        "w": 640,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 384
+      }
+    },
+    {
+      "filename": "frame14",
       "frame": {
         "x": 640,
         "y": 384,
@@ -547,7 +547,7 @@
       }
     },
     {
-      "filename": "frame15.png",
+      "filename": "frame15",
       "frame": {
         "x": 1280,
         "y": 384,
@@ -568,7 +568,7 @@
       }
     },
     {
-      "filename": "frame16.png",
+      "filename": "frame16",
       "frame": {
         "x": 1920,
         "y": 384,
@@ -589,7 +589,7 @@
       }
     },
     {
-      "filename": "frame17.png",
+      "filename": "frame17",
       "frame": {
         "x": 2560,
         "y": 384,
@@ -610,7 +610,7 @@
       }
     },
     {
-      "filename": "frame18.png",
+      "filename": "frame18",
       "frame": {
         "x": 3200,
         "y": 384,
@@ -631,7 +631,7 @@
       }
     },
     {
-      "filename": "frame19.png",
+      "filename": "frame19",
       "frame": {
         "x": 0,
         "y": 768,
@@ -652,7 +652,7 @@
       }
     },
     {
-      "filename": "frame20.png",
+      "filename": "frame20",
       "frame": {
         "x": 3200,
         "y": 384,
@@ -673,7 +673,7 @@
       }
     },
     {
-      "filename": "frame21.png",
+      "filename": "frame21",
       "frame": {
         "x": 0,
         "y": 768,
@@ -694,7 +694,7 @@
       }
     },
     {
-      "filename": "frame22.png",
+      "filename": "frame22",
       "frame": {
         "x": 3200,
         "y": 384,
@@ -715,7 +715,7 @@
       }
     },
     {
-      "filename": "frame23.png",
+      "filename": "frame23",
       "frame": {
         "x": 640,
         "y": 768,
@@ -736,7 +736,7 @@
       }
     },
     {
-      "filename": "frame24.png",
+      "filename": "frame24",
       "frame": {
         "x": 1280,
         "y": 768,
@@ -757,7 +757,7 @@
       }
     },
     {
-      "filename": "frame25.png",
+      "filename": "frame25",
       "frame": {
         "x": 1280,
         "y": 768,
@@ -778,7 +778,7 @@
       }
     },
     {
-      "filename": "frame26.png",
+      "filename": "frame26",
       "frame": {
         "x": 1280,
         "y": 768,
@@ -799,7 +799,7 @@
       }
     },
     {
-      "filename": "frame27.png",
+      "filename": "frame27",
       "frame": {
         "x": 1280,
         "y": 768,
@@ -1051,7 +1051,7 @@
       }
     },
     {
-      "filename": "frame28.png",
+      "filename": "frame28",
       "frame": {
         "x": 1920,
         "y": 768,
@@ -1072,7 +1072,7 @@
       }
     },
     {
-      "filename": "frame29.png",
+      "filename": "frame29",
       "frame": {
         "x": 2560,
         "y": 768,
@@ -1093,7 +1093,7 @@
       }
     },
     {
-      "filename": "frame30.png",
+      "filename": "frame30",
       "frame": {
         "x": 3200,
         "y": 768,
@@ -1114,7 +1114,7 @@
       }
     },
     {
-      "filename": "frame31.png",
+      "filename": "frame31",
       "frame": {
         "x": 0,
         "y": 1152,
@@ -1135,49 +1135,7 @@
       }
     },
     {
-      "filename": "frame32.png",
-      "frame": {
-        "x": 640,
-        "y": 1152,
-        "w": 640,
-        "h": 384
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 640,
-        "h": 384
-      },
-      "sourceSize": {
-        "w": 640,
-        "h": 384
-      }
-    },
-    {
-      "filename": "frame33.png",
-      "frame": {
-        "x": 0,
-        "y": 1152,
-        "w": 640,
-        "h": 384
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 640,
-        "h": 384
-      },
-      "sourceSize": {
-        "w": 640,
-        "h": 384
-      }
-    },
-    {
-      "filename": "frame34.png",
+      "filename": "frame32",
       "frame": {
         "x": 640,
         "y": 1152,
@@ -1198,7 +1156,7 @@
       }
     },
     {
-      "filename": "frame35.png",
+      "filename": "frame33",
       "frame": {
         "x": 0,
         "y": 1152,
@@ -1219,7 +1177,49 @@
       }
     },
     {
-      "filename": "frame36.png",
+      "filename": "frame34",
+      "frame": {
+        "x": 640,
+        "y": 1152,
+        "w": 640,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 384
+      }
+    },
+    {
+      "filename": "frame35",
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 640,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 384
+      }
+    },
+    {
+      "filename": "frame36",
       "frame": {
         "x": 1280,
         "y": 1152,
@@ -1240,7 +1240,7 @@
       }
     },
     {
-      "filename": "frame37.png",
+      "filename": "frame37",
       "frame": {
         "x": 1920,
         "y": 1152,
@@ -1261,7 +1261,7 @@
       }
     },
     {
-      "filename": "frame38.png",
+      "filename": "frame38",
       "frame": {
         "x": 1920,
         "y": 1152,
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "filename": "frame39.png",
+      "filename": "frame39",
       "frame": {
         "x": 1920,
         "y": 1152,
@@ -1303,7 +1303,7 @@
       }
     },
     {
-      "filename": "frame40.png",
+      "filename": "frame40",
       "frame": {
         "x": 1920,
         "y": 1152,
@@ -1555,7 +1555,7 @@
       }
     },
     {
-      "filename": "frame41.png",
+      "filename": "frame41",
       "frame": {
         "x": 2560,
         "y": 1152,
@@ -1576,7 +1576,7 @@
       }
     },
     {
-      "filename": "frame42.png",
+      "filename": "frame42",
       "frame": {
         "x": 3200,
         "y": 1152,
@@ -1597,7 +1597,7 @@
       }
     },
     {
-      "filename": "frame42.png",
+      "filename": "frame42",
       "frame": {
         "x": 3200,
         "y": 1152,
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "filename": "frame43.png",
+      "filename": "frame43",
       "frame": {
         "x": 0,
         "y": 1536,
@@ -1639,7 +1639,7 @@
       }
     },
     {
-      "filename": "frame44.png",
+      "filename": "frame44",
       "frame": {
         "x": 640,
         "y": 1536,
@@ -1660,7 +1660,7 @@
       }
     },
     {
-      "filename": "frame45.png",
+      "filename": "frame45",
       "frame": {
         "x": 1280,
         "y": 1536,
@@ -1681,7 +1681,7 @@
       }
     },
     {
-      "filename": "frame46.png",
+      "filename": "frame46",
       "frame": {
         "x": 640,
         "y": 1536,
@@ -1702,7 +1702,7 @@
       }
     },
     {
-      "filename": "frame47.png",
+      "filename": "frame47",
       "frame": {
         "x": 1280,
         "y": 1536,
@@ -1723,7 +1723,7 @@
       }
     },
     {
-      "filename": "frame48.png",
+      "filename": "frame48",
       "frame": {
         "x": 640,
         "y": 1536,
@@ -1744,7 +1744,7 @@
       }
     },
     {
-      "filename": "frame49.png",
+      "filename": "frame49",
       "frame": {
         "x": 1920,
         "y": 1536,
@@ -1765,7 +1765,7 @@
       }
     },
     {
-      "filename": "frame50.png",
+      "filename": "frame50",
       "frame": {
         "x": 2560,
         "y": 1536,
@@ -1786,7 +1786,7 @@
       }
     },
     {
-      "filename": "frame51.png",
+      "filename": "frame51",
       "frame": {
         "x": 2560,
         "y": 1536,
@@ -1807,7 +1807,7 @@
       }
     },
     {
-      "filename": "frame52.png",
+      "filename": "frame52",
       "frame": {
         "x": 2560,
         "y": 1536,
@@ -1828,7 +1828,7 @@
       }
     },
     {
-      "filename": "frame53.png",
+      "filename": "frame53",
       "frame": {
         "x": 2560,
         "y": 1536,
@@ -2311,3 +2311,4 @@
       }
     }
   ]
+ }
